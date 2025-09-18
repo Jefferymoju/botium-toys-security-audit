@@ -20,11 +20,10 @@ Conducted an **internal IT security audit** for a fictional small business, Boti
 - **NIST Cybersecurity Framework** (Identify, Protect, Detect, Respond, Recover).  
 - Compliance standards documentation (**PCI DSS, GDPR, SOC**).  
 - Microsoft Word / Google Docs (audit report, checklist).  
-
+ 
 ## Deliverables  
-- ✅ **Controls Assessment Checklist** (evaluated 12+ technical/physical controls).  
-- ✅ **Compliance Checklist** (PCI DSS, GDPR, SOC Type 1/2).  
-- ✅ **Final Audit Report** highlighting risks, compliance gaps, and recommendations for mitigation.  
+- [Controls Assessment Checklist](doc/Botium_Toys_Scope_goals_and_risk_assessment_report.docx)  
+- [Compliance Checklist](doc/Controls_and_compliance_checklist.pdf)  
 
 ---
 
